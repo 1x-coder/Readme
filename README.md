@@ -10,20 +10,6 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </samp>
 <br/><br/>
 
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Ruby", "PHP", "R", "Python", "Javascript", "C", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown","Powershell" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
 <h4 align="center">
   
 ```diff
@@ -49,6 +35,21 @@ class About extends Me {
 ```
 
 </h4>  
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Ruby", "PHP", "R", "Python", "Javascript", "C", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown","Powershell" },
+    "Database" : { "Firebase", "Sqlite" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
