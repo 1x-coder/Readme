@@ -1,11 +1,7 @@
+<h1 align="center">
+Hi, I'm Abdullah!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />
+<!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
 
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dead-Coder's&theme=onedark&hide_border=false)<br/>
-
-![](https://github-profile-trophy.vercel.app/?username=Dead-Coder's&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=Dead-Coder's&icon=2&color=13)](https://visitcount.itsvg.in)
-
+<br/>
