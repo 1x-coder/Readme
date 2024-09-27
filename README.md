@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
+<div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
 <hr/>
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
