@@ -1,8 +1,6 @@
 
 
 
-# 💻 Tech Stack:
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dead-Coder's&theme=onedark&hide_border=false)<br/>
