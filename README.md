@@ -1,11 +1,6 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<!-- "Hero" Header -->
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
   <br />
   <br />
 
