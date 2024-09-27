@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Dead-Coders<br>😄 I'm a professional web and app developer with a passion for creating innovative and user-friendly experiences. I bring a strong foundation in various programming languages to the table, allowing me to tackle diverse development challenges.<br>👀 I’m currently learning Java and Golang<br>📫I'm passionate about building user-friendly and innovative web and mobile applications. My journey has involved mastering several programming languages, allowing me to tackle diverse development project
+👋 Hi, I’m Abdullah<br>😄 I'm a professional web and app developer with a passion for creating innovative and user-friendly experiences. I bring a strong foundation in various programming languages to the table, allowing me to tackle diverse development challenges.<br>👀 I’m currently learning Java and Golang<br>📫I'm passionate about building user-friendly and innovative web and mobile applications. My journey has involved mastering several programming languages, allowing me to tackle diverse development project
 
 
 ## 🌐 Socials:
