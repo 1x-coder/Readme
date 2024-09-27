@@ -23,8 +23,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "ProgramingLanguages" : { "Dart", "Ruby", "PHP", "R", "Python", "Javascript", "C", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown","Powershell" },
     "Database" : { "Firebase", "Sqlite" },
     "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
     "Platforms" : { "Mac", "GNU/Linux", "Windows" },
